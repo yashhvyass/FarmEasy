@@ -10,38 +10,38 @@ FarmEasy is an AI-powered platform designed to help farmers navigate interstate 
 
 - AI-Powered Regulatory Assistant
 
-Real-time answers to regulatory questions
-State-specific agricultural compliance guidance
-Clear, jargon-free explanations
+1. Real-time answers to regulatory questions
+2. State-specific agricultural compliance guidance
+3. Clear, jargon-free explanations
 
 - Knowledge Base
 
-Comprehensive documentation of state agricultural laws
-Searchable database of common regulatory scenarios
-Regular updates to reflect latest regulations
+1. Comprehensive documentation of state agricultural laws
+2. Searchable database of common regulatory scenarios
+3. Regular updates to reflect latest regulations
 
 - Legal Expert Access
 
-Connect with qualified agricultural legal experts
-Affordable consultation sessions
+1. Connect with qualified agricultural legal experts
+2. Affordable consultation sessions
 
 - User-Friendly Dashboard
 
-Intuitive interface for all experience levels
-Customizable notification settings
+1. Intuitive interface for all experience levels
+2. Customizable notification settings
 
 ## 🔧 Technology Stack
 
-Tool UI: Streamlit
-AI/ML: TensorFlow, OpenAI API, Mistral
-API: Open Ai, Google Maps
-Website: HTML, CSS, JAVASCRIPT
+- Tool UI: Streamlit
+- AI/ML: TensorFlow, OpenAI API, Mistral
+- API: Open Ai, Google Maps
+- Website: HTML, CSS, JAVASCRIPT
 
 ## 🏃‍♂️ Getting Started
 
-Register for an account at FarmEasy
-Complete the onboarding process
-Start with the interactive tutorial
-Explore the knowledge base
-Ask your first regulatory question!
-Not satisfied ask one of our experts!
+- Register for an account at FarmEasy
+- Complete the onboarding process
+- Start with the interactive tutorial
+- Explore the knowledge base
+- Ask your first regulatory question!
+- Not satisfied ask one of our experts!
