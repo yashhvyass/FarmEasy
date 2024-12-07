@@ -33,7 +33,7 @@ FarmEasy is an AI-powered platform designed to help farmers navigate interstate 
 ## 🔧 Technology Stack
 
 - Tool UI: Streamlit
-- AI/ML: TensorFlow, OpenAI API, Mistral
+- AI/ML: OpenAI API, Mistral
 - API: Open Ai, Google Maps
 - Website: HTML, CSS, JAVASCRIPT
 
