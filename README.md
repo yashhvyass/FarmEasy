@@ -5,6 +5,8 @@ FarmEasy is an AI-powered platform designed to help farmers navigate interstate 
 ## Platform Landing Page -
 ![Screenshot 2024-11-05 174256](https://github.com/user-attachments/assets/dd3e4dbb-0fd1-4d28-a7bb-e475b5e3cfbd)
 
+## Video Submission for the Competition - 
+https://www.youtube.com/watch?v=KOOHhz2oAQA&t=70s
 
 ## 🚀 Features
 
